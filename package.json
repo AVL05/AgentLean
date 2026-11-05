@@ -1,0 +1,1 @@
+{"name":"agentlean","version":"0.1.0","private":true,"type":"module","description":"Local output optimization for AI coding agents","bin":{"agentlean":"./bin/agentlean.js"},"engines":{"node":">=20"},"scripts":{"test":"node --test","benchmark":"node scripts/benchmark.mjs"},"license":"MIT"}
